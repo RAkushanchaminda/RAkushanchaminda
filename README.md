@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/kushan-ranasinghe-b3574b130" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> 
   </a>
 </p>
