@@ -20,9 +20,6 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a> 
-  <a href="https://www.clamav.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.clamav.net/assets/clamav-logo.png" alt="clamAV" width="40" height="40"/> 
-  </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
   </a> 
